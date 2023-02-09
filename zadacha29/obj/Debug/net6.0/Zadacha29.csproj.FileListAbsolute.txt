@@ -1,0 +1,15 @@
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/bin/Debug/net6.0/Zadacha29
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/bin/Debug/net6.0/Zadacha29.deps.json
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/bin/Debug/net6.0/Zadacha29.runtimeconfig.json
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/bin/Debug/net6.0/Zadacha29.dll
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/bin/Debug/net6.0/Zadacha29.pdb
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/obj/Debug/net6.0/Zadacha29.csproj.AssemblyReference.cache
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/obj/Debug/net6.0/Zadacha29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/obj/Debug/net6.0/Zadacha29.AssemblyInfoInputs.cache
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/obj/Debug/net6.0/Zadacha29.AssemblyInfo.cs
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/obj/Debug/net6.0/Zadacha29.csproj.CoreCompileInputs.cache
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/obj/Debug/net6.0/Zadacha29.dll
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/obj/Debug/net6.0/refint/Zadacha29.dll
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/obj/Debug/net6.0/Zadacha29.pdb
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/obj/Debug/net6.0/Zadacha29.genruntimeconfig.cache
+/Users/liliaandreeva/Desktop/учеба/c#/Seminar4DZ/Zadacha29/obj/Debug/net6.0/ref/Zadacha29.dll
